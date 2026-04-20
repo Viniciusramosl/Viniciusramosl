@@ -3,7 +3,7 @@
 💻 **Desenvolvedor em formação** | 🎨 **Apaixonado por Arte, Jogos e Tecnologia**  
 
 ## Sobre mim  
-📍 | 📅 24 anos  
+📍 | 📅 25 anos  
 👨‍🎓 Graduando em **Análise e Desenvolvimento de Sistemas**  
 💡 Explorando o mundo do **desenvolvimento Full Stack**  
 🎯 Determinado, comunicativo e sempre buscando aprender algo novo! 
